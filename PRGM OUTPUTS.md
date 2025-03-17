@@ -5,3 +5,6 @@
 1B-PROGRAM OUTPUT
 ![image](https://github.com/user-attachments/assets/fc6ece18-d06a-47ce-b767-2918857cfcfa)
 
+2-PROGRAM OUTPUT
+![image](https://github.com/user-attachments/assets/cac8119c-dd7b-4c30-86cb-aec30424707a)
+
