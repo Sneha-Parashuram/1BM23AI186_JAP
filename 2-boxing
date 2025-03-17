@@ -1,0 +1,30 @@
+package SNEHA186;
+import java.util.Scanner;
+
+public class BOXING {
+    public static void main(String[] args){
+        Integer boxedInt=Integer.valueOf(10);
+        Double boxedDouble=Double.valueOf(20.5);
+        Character boxedChar=Character.valueOf('A');
+        Boolean boxedboolean=Boolean.valueOf(true);
+        Float boxedFloat=Float.valueOf(30.5f);
+        int unboxedInt=boxedInt.intValue();
+        double unboxedDouble=boxedDouble.doubleValue();
+        char unboxedChar=boxedChar.charValue();
+        boolean unboxedBoolean=boxedboolean.booleanValue();
+        float unboxedFloat=boxedFloat.floatValue();
+
+        System.out.println("Boxed int: " + boxedInt);
+        System.out.println("unboxed int: " + unboxedInt);
+        System.out.println("Boxed double: " + boxedDouble);
+        System.out.println("unboxed double: " + unboxedDouble);
+        System.out.println("Boxed char: " + boxedChar);
+        System.out.println("unboxed char: " + unboxedChar);
+        System.out.println("Boxed boolean: " + boxedboolean);
+        System.out.println("unboxed boolean: " + unboxedBoolean);
+        System.out.println("Boxed float: " + boxedFloat);
+        System.out.println("unboxed float: " + unboxedFloat);
+
+
+    }
+}
