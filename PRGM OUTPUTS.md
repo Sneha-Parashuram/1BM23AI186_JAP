@@ -19,5 +19,9 @@
 5-ONLINE SHOPPING MANAGER
 ![image](https://github.com/user-attachments/assets/dc972047-b09b-411f-8c4f-d36f8109d893)
 
+7-PHARMACY MANAGEMENT SYSTEM
+![image](https://github.com/user-attachments/assets/8ac92de1-02e3-4c78-858d-c242cd00f063)
+
+
 
 
