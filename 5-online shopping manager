@@ -26,7 +26,7 @@ public class OnlineShoppingManager {
 
     public void removeProduct(String name) {
         for (int i = 0; i < inventory.size(); i++) {
-            if (inventory.get(i).name.equalsIgnoreCase(name)) { // Use 'name' instead of 'Name'
+            if (inventory.get(i).name.equalsIgnoreCase(name)) { 
                 inventory.remove(i);
                 break;
             }
