@@ -25,5 +25,7 @@
 6-GENERIC QUEUE
 ![image](https://github.com/user-attachments/assets/4c239f0c-c4da-4c02-95d4-313a18fbabea)
 
+8-EXCEPTION HANDLING
+![image](https://github.com/user-attachments/assets/7698568c-923a-48cd-8b31-71bd630ba255)
 
 
