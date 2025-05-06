@@ -22,6 +22,8 @@
 7-PHARMACY MANAGEMENT SYSTEM
 ![image](https://github.com/user-attachments/assets/8ac92de1-02e3-4c78-858d-c242cd00f063)
 
+6-GENERIC QUEUE
+![image](https://github.com/user-attachments/assets/4c239f0c-c4da-4c02-95d4-313a18fbabea)
 
 
 
