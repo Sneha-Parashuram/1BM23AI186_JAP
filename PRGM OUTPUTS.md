@@ -28,4 +28,10 @@
 8-EXCEPTION HANDLING
 ![image](https://github.com/user-attachments/assets/7698568c-923a-48cd-8b31-71bd630ba255)
 
+9-Stack operations
+![image](https://github.com/user-attachments/assets/e6500a9d-30d5-4954-adfb-385aeb51bb51)
+
+10-AccessModifier Demo project
+
+
 
